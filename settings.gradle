@@ -1,0 +1,6 @@
+rootProject.name = 'Md4-b3'
+include 'BaiTh'
+include 'BaiTh'
+findProject(':BaiTh')?.name = 'BaiTH'
+include 'BaiTap'
+
